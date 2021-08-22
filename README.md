@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
+<a href="https://github.com/Christoph-Lauer/github-stats">
+  
+![](https://raw.githubusercontent.com/Christoph-Lauer/github-stats/master/generated/overview.svg)
+![](https://github.com/Christoph-Lauer/github-stats/blob/master/generated/languages.svg)
+
+</a>
+
+</div>
